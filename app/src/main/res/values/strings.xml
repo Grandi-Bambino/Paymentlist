@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Playment List</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hint_login_edit_text">Введите логин</string>
     <string name="hint_password_edit_text">Введите пароль</string>
