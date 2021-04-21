@@ -1,4 +1,4 @@
-package ru.grandibambino.playmentlist
+package ru.grandibambino.paymentlist
 
 import org.junit.Test
 

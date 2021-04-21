@@ -1,4 +1,4 @@
-package ru.grandibambino.playmentlist
+package ru.grandibambino.paymentlist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

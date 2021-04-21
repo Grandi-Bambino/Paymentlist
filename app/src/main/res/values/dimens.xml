@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_vertical_margin">14dp</dimen>
+    <dimen name="default_horizontal_margin">16dp</dimen>
+    <dimen name="double_vertical_margin">28dp</dimen>
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="default_corner_radius">15dp</dimen>
+    <dimen name="default_elevation">4dp</dimen>
+</resources>

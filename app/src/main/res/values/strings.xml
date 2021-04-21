@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Playment List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_login_edit_text">Введите логин</string>
+    <string name="hint_password_edit_text">Введите пароль</string>
+    <string name="login_btn">Войти</string>
+    <string name="amount_title">Количество</string>
+    <string name="currency_title">Валюта</string>
+    <string name="created_title">Создан</string>
+    <string name="formater_date">dd/MM/yyyy HH:mm:ss</string>
+    <string name="logout">Выйти</string>
+    <string name="dialog_logout">Вы уверены, что хотите выйти?</string>
+    <string name="logout_positive_btn">Выйти</string>
+    <string name="logout_negative_btn">Отмена</string>
+    <string name="error_get_data_title">Ошибка загрузки данных</string>
 </resources>
